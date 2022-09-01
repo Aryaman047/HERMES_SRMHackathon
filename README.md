@@ -26,3 +26,4 @@ Javascript - for implementing Logic into the program
 
 Solidity - for implementing block chain technology
 
+A video on it's implementation has also been provided -> https://www.youtube.com/watch?v=8DyI2h7NQS0 for the competition.
